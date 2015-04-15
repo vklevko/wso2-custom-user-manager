@@ -1,4 +1,4 @@
-package orgwso2.apim.user.store.manager;
+package org.wso2.apim.user.store.manager;
 
 import be.digipolis.wso2.apim.user.store.manager.properties.AStadUserStoreManagerProperties;
 import org.apache.commons.logging.Log;
